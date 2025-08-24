@@ -9,6 +9,7 @@ Agentic Chatbot with web-search and memory built using Streamlit, FastApi, Langg
 - Persistent chat history stored using SQLite
 - Session management with unique thread IDs
 - Simple and clean Streamlit UI
+- Real-time web search when toggled on.
 - Easy to run locally with minimal setup
 
 ## Tech Stack
